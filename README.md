@@ -2,7 +2,7 @@
 
 ## Description
 
-Recommend etsy links to your friends on Google+, making use of both APIs, respectively. <br><br>
+Recommend Etsy links to your friends on Google+, making use of both APIs, respectively. <br><br>
 
 ## Setup
 
