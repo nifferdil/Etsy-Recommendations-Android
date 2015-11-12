@@ -1,4 +1,4 @@
-# Recommendations
+# Etsy Recommendations
 
 ## Description
 
